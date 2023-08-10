@@ -1,2 +1,17 @@
-# Image Data
+# Sport Classification
 Sport Classification/Data/
+Sport Classification/*.h5
+
+# Cats vs Dogs
+Cats vs Dogs/test1
+Cats vs Dogs/train
+Cats vs Dogs/*.zip
+Cats vs Dogs/*.csv
+
+# Food101
+Food101/checkpoints/
+Food101/*.zip
+Food101/food101/
+
+
+
