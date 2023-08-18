@@ -1,6 +1,8 @@
 # Sport Classification
 Sport Classification/Data/
 Sport Classification/*.h5
+Sport Classification/*.zip
+Sport Classification/*.keras
 
 # Cats vs Dogs
 Cats vs Dogs/test1
