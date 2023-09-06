@@ -16,7 +16,7 @@ Food101/*.zip
 Food101/food101/
 
 # Face Recognition
-FaceRecognition/subjects/
-FaceRecognition/test/
+Face Recognition/subjects/
+Face Recognition/test/
 FaceRecognition/ipynb_checkpoints
 
